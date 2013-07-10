@@ -1,0 +1,1 @@
+This is a test application for javascript which displays correct time and date.
